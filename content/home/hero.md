@@ -25,9 +25,9 @@ weight = 3
 
 +++
 
-clement tourbez
+Clément Tourbez
 <br>
-<small>A short description of myself here</small>
+<small>A short description of myself CTz here</small>
 <br><br>
 
 <script type="text/javascript">
