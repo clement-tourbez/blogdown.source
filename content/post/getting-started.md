@@ -1,11 +1,11 @@
-+++
-date = 2018-10-01
++++Test Project
+date = 2018-10-07
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "hugo"]
-title = "Mon premier blog"
+title = "Blog test"
 math = true
-summary = """
+summary = """TEST TEST TEST
 Résumé en une ou deux phrases ici. 
 """
 
@@ -18,6 +18,6 @@ preview = false
 
 Le contenu ici
 
-## Un titre
+## BLOG TEST TEST
 
 Du texte **avec une partie en gras**...
