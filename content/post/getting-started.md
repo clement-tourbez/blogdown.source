@@ -1,23 +1,24 @@
-+++Test Project
-date = 2018-10-07
-lastmod = 2018-09-20
+Social Network consequence on sleep quality
+
+date = 2018-11-13
+
+lastmod = 2018-11-13
+
 draft = false
+
 tags = ["academic", "hugo"]
-title = "Blog test"
+
+title = "Social Network"
+
 math = true
-summary = """TEST TEST TEST
-Résumé en une ou deux phrases ici. 
-"""
 
-[header]
-image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
-preview = false
+summary = this project will study the effects of the social network on sleep quality 
 
-+++
 
-Le contenu ici
 
-## BLOG TEST TEST
+## Social Network consequence on sleep quality
 
-Du texte **avec une partie en gras**...
+this project will study the effects of the social network on sleep quality 
+
+![](https://hdqwalls.com/download/facebook-digital-art-po-2048x1152.jpg)
+

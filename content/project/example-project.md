@@ -13,7 +13,7 @@ image_preview = "project.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["science", "biology"]
+tags = ["science", "biology","climbing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,4 +27,9 @@ image = "headers/project-header.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+Here I describe my project with Markdown formatting (R studio).
+
+
+
+
+
