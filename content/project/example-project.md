@@ -39,9 +39,9 @@ Here all the contributors to this project:
 
 https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality/graphs/contributors
 
-#Introduction
+# Introduction
 
-Recently, there have been a lot of discussions about the effects of social networks and video games on sleeping hours. We wanted to make some research about that subject and thus we gather some data about some factors that may help us understands the influence of video games and social network and the differences between genders. We also want to see the difference between the social netwok called facebook well know for everyone and the other social networks like snapchat , instagram , whatsapp , twitter and at least viber.
+Recently, there have been a lot of discussions about the effects of social networks and video games on sleeping hours. We wanted to make some research about that subject and thus we gather some data about some factors that may help us understands the influence of video games and social network and the differences between genders. We also want to see the difference between the social netwok called facebook well know for everyone and the other social networks like snapchat , instagram , whatsapp , twitter and at least viber. 
 
 
 
@@ -50,17 +50,22 @@ Recently, there have been a lot of discussions about the effects of social netwo
 
 
 
-#Goal
+# Goal
+
+
 Our goal is to determine if there is a relation between the hours passed on the social media (and the video games) about the sleeping hours.
 
 
 
-#Material and methods
+# Material and methods
+
+
+
 This project and the analysis have been realised with Rstudio. The data has been harverst randomly and anonymously.
 .
 
 
-#Results
+# Results
 
 
 
@@ -88,9 +93,9 @@ First we can see  a significant difference between girls and boys 's interrest a
 We can easily see that video game time's and other social network time's (like snapchat instagram ,...) distribution are hardly affected by the age class. Indeed young population seem to be more attracted to video game and other social network time . In comparison facebook seem to be nearly the same distribution for the two age classes facebook seem to be popular not only about young poeple but also about all the other.
 
 
-## social networks and video games comparated to bed time
+## Social networks and video games comparated to bed time
 
-### facebook
+### Facebook
 
 ![](figure/figure11.png)
 
@@ -102,7 +107,7 @@ We see absolutely no relation bewteen the facebook usage habits and the bed time
 
 
 
-### others social networks
+### Others social networks
 
 
 ![](figure/figure13.png)
@@ -112,7 +117,7 @@ We see absolutely no relation bewteen the facebook usage habits and the bed time
 
 Here we do not see any relation too. Despite that we can see that the hightest value go to bed later than the other but it is not enough to say that a true relation exist and we can say that social networks seem  not to affect bed time habits
 
-### video games
+### Video games
 
 ![](figure/figure12.png)
 
@@ -141,7 +146,7 @@ We did not found no one relation between social network and video game addiction
 
 -> Our data table is no really big we only have 68 samples. Does it is enough to work on that research ? We should have bigger amount of samples to continue our survey.
 
--> We did not found relation between video game and social networks addiction and bed time ? Ok but does there is a relation between these factor and for instance school results or social interactions ? There is plenty of things to analyse and we should study social networks and video games effect for other factors !
+-> We did not found relation between video game and social networks addiction and bed time ? Ok ,but does there is a relation between these factor and for instance school results or social interactions ? There is plenty of things to analyse and we should study social networks and video games effect for other factors !
 
 
 
