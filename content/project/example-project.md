@@ -29,6 +29,19 @@ caption = "Image credit: **Trevor Cole** on Unsplash"
 
 Here I describe my project with Markdown formatting (R studio).
 
+First project about social networks effect on the sleep quality:
+
+
+![](figure/figure1.png)
+
+![](figure/figure2.pnj)
+
+
+
+
+
+
+
 
 
 
